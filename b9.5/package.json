@@ -1,0 +1,19 @@
+{
+  "name": "my_package_array_omg",
+  "version": "1.0.0",
+  "description": "test array package",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Iamapenetrator/B9.git#main"
+  },
+  "author": "omg",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Iamapenetrator/B9/issues"
+  },
+  "homepage": "https://github.com/Iamapenetrator/B9/tree/main#readme"
+}
